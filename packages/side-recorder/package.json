@@ -1,6 +1,6 @@
 {
   "name": "@seleniumhq/side-recorder",
-  "version": "3.5.11",
+  "version": "3.5.12",
   "private": true,
   "description": "Selenium IDE WebExtension based recorder",
   "author": "Tomer <tomer@corevo.io>",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.6.2",
-    "@seleniumhq/side-recorder-postprocessor": "^3.5.11",
+    "@seleniumhq/side-recorder-postprocessor": "^3.5.12",
     "@testing-library/dom": "^6.4.1",
     "babel-loader": "^8.0.5",
     "chromedriver": "^81.0.0",
