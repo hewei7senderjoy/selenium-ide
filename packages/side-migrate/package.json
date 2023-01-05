@@ -1,6 +1,6 @@
 {
   "name": "@seleniumhq/side-migrate",
-  "version": "3.5.10",
+  "version": "3.5.11",
   "private": true,
   "description": "Selenium IDE format migrations",
   "author": "Tomer <tomer@corevo.io>",
@@ -23,9 +23,8 @@
   "bugs": {
     "url": "https://github.com/SeleniumHQ/selenium-ide/issues"
   },
-  "devDependencies": {},
   "dependencies": {
-    "@seleniumhq/side-model": "^3.5.10",
+    "@seleniumhq/side-model": "^3.5.11",
     "unescape": "^1.0.1",
     "xml-escape": "^1.1.0",
     "xml-js": "^1.5.2"

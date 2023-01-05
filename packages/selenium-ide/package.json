@@ -1,6 +1,6 @@
 {
   "name": "selenium-ide",
-  "version": "3.5.10",
+  "version": "3.5.11",
   "private": true,
   "description": "Selenium IDE electron app",
   "author": "Tomer <tomer@corevo.io>",
@@ -48,7 +48,7 @@
     ]
   },
   "dependencies": {
-    "@seleniumhq/get-driver": "^3.5.10",
+    "@seleniumhq/get-driver": "^3.5.11",
     "selenium-webdriver": "^4.0.0-alpha.7"
   },
   "devDependencies": {
