@@ -1,6 +1,6 @@
 {
   "name": "@seleniumhq/webdriver-testkit",
-  "version": "3.5.12",
+  "version": "3.5.13-alpha.0",
   "private": true,
   "description": "Manage test driver installation",
   "author": "Tomer <tomer@corevo.io>",
@@ -31,8 +31,8 @@
     "selenium-webdriver": "^4.0.0-alpha.7"
   },
   "dependencies": {
-    "@seleniumhq/browser-info": "^3.5.12",
-    "@seleniumhq/get-driver": "^3.5.12",
+    "@seleniumhq/browser-info": "^3.5.13-alpha.0",
+    "@seleniumhq/get-driver": "^3.5.13-alpha.0",
     "fs-extra": "^8.1.0"
   },
   "peerDependencies": {
